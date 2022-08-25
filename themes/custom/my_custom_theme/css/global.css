@@ -1,0 +1,26 @@
+h1 {
+  color: rgb(180, 123, 123);
+}
+
+h2 {
+  color: rgb(180, 123, 123);
+}
+
+body {
+  background-color: rgb(251, 251, 251);
+}
+
+#header {
+  background-color: rgb(163, 81, 81);
+}
+
+#menu {
+  background-color: rgb(253, 249, 249);
+}
+
+#content {
+  background-color: rgb(243, 239, 239);
+}
+#footer {
+  background-color: rgb(163, 81, 81);
+}
